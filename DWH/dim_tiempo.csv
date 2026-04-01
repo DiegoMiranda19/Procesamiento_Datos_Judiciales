@@ -1,0 +1,23 @@
+﻿id_tiempo,fecha,anio,trimestre,trimestre_label,mes_num,mes_nombre,mes_anio,semana_anio,dia_mes,dia_semana_num,dia_semana_nombre,es_fin_semana,es_fin_mes,periodo
+1,2024-01-23,2024,1,Q1-2024,1,Enero,2024-01,4,23,1,Martes,0,0,Enero-Junio 2024
+2,2024-02-27,2024,1,Q1-2024,2,Febrero,2024-02,9,27,1,Martes,0,0,Enero-Junio 2024
+3,2024-06-30,2024,2,Q2-2024,6,Junio,2024-06,26,30,6,Domingo,1,1,Enero-Junio 2024
+4,2024-07-31,2024,3,Q3-2024,7,Julio,2024-07,31,31,2,Miércoles,0,1,Julio-Diciembre 2024
+5,2024-08-31,2024,3,Q3-2024,8,Agosto,2024-08,35,31,5,Sábado,1,1,Julio-Diciembre 2024
+6,2024-09-18,2024,3,Q3-2024,9,Septiembre,2024-09,38,18,2,Miércoles,0,0,Julio-Diciembre 2024
+7,2024-09-29,2024,3,Q3-2024,9,Septiembre,2024-09,39,29,6,Domingo,1,1,Julio-Diciembre 2024
+8,2024-09-30,2024,3,Q3-2024,9,Septiembre,2024-09,40,30,0,Lunes,0,1,Julio-Diciembre 2024
+9,2024-10-31,2024,4,Q4-2024,10,Octubre,2024-10,44,31,3,Jueves,0,1,Julio-Diciembre 2024
+10,2024-11-30,2024,4,Q4-2024,11,Noviembre,2024-11,48,30,5,Sábado,1,1,Julio-Diciembre 2024
+11,2024-12-31,2024,4,Q4-2024,12,Diciembre,2024-12,1,31,1,Martes,0,1,Julio-Diciembre 2024
+12,2025-01-31,2025,1,Q1-2025,1,Enero,2025-01,5,31,4,Viernes,0,1,Enero-Junio 2025
+13,2025-02-12,2025,1,Q1-2025,2,Febrero,2025-02,7,12,2,Miércoles,0,0,Enero-Junio 2025
+14,2025-02-23,2025,1,Q1-2025,2,Febrero,2025-02,8,23,6,Domingo,1,0,Enero-Junio 2025
+15,2025-02-28,2025,1,Q1-2025,2,Febrero,2025-02,9,28,4,Viernes,0,1,Enero-Junio 2025
+16,2025-03-02,2025,1,Q1-2025,3,Marzo,2025-03,9,2,6,Domingo,1,0,Enero-Junio 2025
+17,2025-03-10,2025,1,Q1-2025,3,Marzo,2025-03,11,10,0,Lunes,0,0,Enero-Junio 2025
+18,2025-03-12,2025,1,Q1-2025,3,Marzo,2025-03,11,12,2,Miércoles,0,0,Enero-Junio 2025
+19,2025-03-17,2025,1,Q1-2025,3,Marzo,2025-03,12,17,0,Lunes,0,0,Enero-Junio 2025
+20,2025-03-31,2025,1,Q1-2025,3,Marzo,2025-03,14,31,0,Lunes,0,1,Enero-Junio 2025
+21,2025-04-20,2025,2,Q2-2025,4,Abril,2025-04,16,20,6,Domingo,1,0,Enero-Junio 2025
+22,2025-04-22,2025,2,Q2-2025,4,Abril,2025-04,17,22,1,Martes,0,0,Enero-Junio 2025
