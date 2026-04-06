@@ -1,0 +1,21 @@
+[project]
+name = "procesamiento_de_datos_judiciales_en_colombia"
+version = "0.1.0"
+description = "Este proyecto tiene como fin, emular una arquitectura completa de un proyecto de Big Data, usando como fuente información ficticia judicial"
+authors = [
+    {name = "DiegoMiranda19",email = "entridox19@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13.2"
+dependencies = [
+    "pandas (>=3.0.2,<4.0.0)",
+    "numpy (>=2.4.4,<3.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)",
+    "streamlit (>=1.56.0,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
